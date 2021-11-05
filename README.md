@@ -20,6 +20,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Email: jzsherlock@163.com 
 - ⚡ Recommend: [révolté Sisyphus](https://space.bilibili.com/111605772)
 
-```
-„ Wer groß denkt, muss groß irren. “ 
-```
+
+> „ Wer groß denkt, muss groß irren. “ 
