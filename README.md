@@ -21,4 +21,6 @@ Here are some ideas to get you started:
 - ⚡ Recommend: [révolté Sisyphus](https://space.bilibili.com/111605772)
 
 
+![jzsherlock4869's GitHub stats](https://github-readme-stats.vercel.app/api?username=jzsherlock4869&show_icons=true&theme=radical)
+
 > „ Wer groß denkt, muss groß irren. “ 
