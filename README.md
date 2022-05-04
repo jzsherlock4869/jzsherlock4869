@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Computer Vision, Image Processing, Machine Learning, Data Science & Engineering
-- 🌱 I’m currently learning SLAM, OpenGL, 3D Vision, Reinforcement Learning
+- 🔭 I’m currently working on Computer Vision, Digital Image Processing, Machine Learning, Data Science & Engineering
+- 🌱 I’m currently learning Computational Photography, Graphics, 3D Vision, Reinforcement Learning etc.
 - 📫 How to reach me: Email: jzsherlock@163.com 
 - ⚡ Recommend: [Welcome to my Bilibili channel~](https://space.bilibili.com/111605772)
 
