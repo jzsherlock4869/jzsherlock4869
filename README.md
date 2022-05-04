@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Computer Vision, Image Processing, Machine Learning, Data Science & Engineering
 - 🌱 I’m currently learning SLAM, OpenGL, 3D Vision, Reinforcement Learning
 - 📫 How to reach me: Email: jzsherlock@163.com 
-- ⚡ Recommend: [révolté Sisyphus](https://space.bilibili.com/111605772)
+- ⚡ Recommend: [Welcome to My Channel~](https://space.bilibili.com/111605772)
 
 
 ![jzsherlock4869's GitHub stats](https://github-readme-stats.vercel.app/api?username=jzsherlock4869&show_icons=true&theme=radical)
