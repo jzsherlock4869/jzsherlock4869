@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Computer Vision, Digital Image Processing, Machine Learning, Data Science & Engineering
-- 🌱 I’m currently learning Computational Photography, Graphics, 3D Vision, Reinforcement Learning etc.
-- 📫 How to reach me: Email: jzsherlock@163.com 
-- ⚡ Recommend: [Welcome to my Bilibili channel~](https://space.bilibili.com/111605772)
+- 🔭 I’m currently working on Computer Vision, Camera ISP, ML & DL, Data Science & Engineering
+- 🌱 I’m currently learning Imaging, Photography, Graphics, 3D, RL etc.
+- 📫 How to reach me: jzsherlock@163.com 
+- ⚡ My Bilibili channel : [Stone of Sisyphus (former SISYPHUS AKADEMIA)](https://space.bilibili.com/111605772)
 
 
 ![jzsherlock4869's GitHub stats](https://github-readme-stats.vercel.app/api?username=jzsherlock4869&show_icons=true&theme=radical)
 
-> „ Wer groß denkt, muss groß irren. “ 
+> „ Verloren sei uns der Tag, wo nicht Ein Mal getanzt wurde!. “  ———— by Friedrich Wilhelm Nietzsche 
