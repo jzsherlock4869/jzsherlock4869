@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Computer Vision, Camera ISP, ML & DL, Data Science & Engineering
 - 🌱 I’m currently learning Imaging, Photography, Graphics, 3D, RL etc.
 - 📫 How to reach me: jzsherlock@163.com 
-- ⚡ My Bilibili channel : [Stone of Sisyphus (former Sisyphus Akademia)](https://space.bilibili.com/111605772)
+- ⚡ My Bilibili channel : [Sisyphusarbeit](https://space.bilibili.com/111605772)
 
 
 ![jzsherlock4869's GitHub stats](https://github-readme-stats.vercel.app/api?username=jzsherlock4869&show_icons=true&theme=radical)
