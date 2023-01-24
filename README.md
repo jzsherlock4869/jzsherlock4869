@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 
 
 ![jzsherlock4869's GitHub stats](https://github-readme-stats.vercel.app/api?username=jzsherlock4869&show_icons=true&theme=radical)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jzsherlock4869&layout=compact)](https://github.com/jzsherlock4869/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jzsherlock4869&layout=compact&theme=dark)
 
 > „ Verloren sei uns der Tag, wo nicht Ein Mal getanzt wurde!. “  ———— by Friedrich Wilhelm Nietzsche 
