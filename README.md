@@ -1,4 +1,4 @@
-### Hi there 👋
+### hi comrades 👋
 
 <!--
 **jzsherlock4869/jzsherlock4869** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Computer Vision, Camera ISP, ML & DL, Data Science & Engineering
-- 🌱 I’m currently learning Imaging, Photography, Graphics, 3D, RL etc.
+- 🔭 I’m currently working on Computer Vision, Machine Learning & Deep Learning, Data Science & Engineering
+- 🌱 I’m currently learning Imaging, Photography, Graphics, 3D, Reinforcement Learning, AIGC etc.
 - 📫 How to reach me: jzsherlock@163.com 
 - ⚡ My website: [AnotherX4869](https://jzsherlock4869.github.io/)
 
