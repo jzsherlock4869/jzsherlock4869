@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Computer Vision, Machine Learning & Deep Learning, Data Science & Engineering
 - 🌱 I’m currently learning Imaging, Photography, Graphics, 3D, Reinforcement Learning, AIGC etc.
 - 📫 How to reach me: jzsherlock@163.com 
-- ⚡ My website: [RevML](https://jzsherlock4869.github.io/)
+- ⚡ My website: [RevML(機器學習默示錄)](https://jzsherlock4869.github.io/)
 
 
 ![jzsherlock4869's GitHub stats](https://github-readme-stats.vercel.app/api?username=jzsherlock4869&show_icons=true&theme=radical)
