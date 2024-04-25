@@ -1,5 +1,7 @@
 ### hi comrades 👋
 
+![Visitor Count](https://profile-counter.glitch.me/jzsherlock4869/count.svg)
+
 <!--
 **jzsherlock4869/jzsherlock4869** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
