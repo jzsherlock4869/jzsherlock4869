@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Computer Vision, Machine Learning & Deep Learning, Data Science & Engineering
-- 🌱 I’m currently learning Imaging, Photography, Graphics, 3D, Reinforcement Learning, AIGC etc.
-- 📫 How to reach me: jzsherlock@163.com 
-- ⚡ My website: [RevelationML(機器學習默示錄)](https://jzsherlock4869.github.io/)
+- 🔭 I’m currently working on Computer Vision, AIGC, Image Processing, Data Science & Engineering
+- 🌱 I’m currently learning Graphics, 3D Vision, Reinforcement Learning etc.
+- 📫 How to reach me: [contact me now](mailto:jzsherlock@163.com)
+- ⚡ My website: [Brain-in-Machine](https://jzsherlock4869.github.io/)
 
 
 ![jzsherlock4869's GitHub stats](https://github-readme-stats.vercel.app/api?username=jzsherlock4869&show_icons=true&theme=radical)
