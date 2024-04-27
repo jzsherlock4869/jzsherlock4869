@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Computer Vision, AIGC, Image Processing, Data Science & Engineering
 - 🌱 I’m currently learning Graphics, 3D Vision, Reinforcement Learning etc.
-- 📫 How to reach me: [contact me now](mailto:jzsherlock@163.com)
+- 📫 How to reach me: [send e-mail](mailto:jzsherlock@163.com)
 - ⚡ My website: [Brain-in-Machine](https://jzsherlock4869.github.io/)
 
 
