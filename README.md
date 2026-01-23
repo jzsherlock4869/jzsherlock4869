@@ -1,6 +1,6 @@
 ### hi comrades 👋
 
-![Visitor Count](https://profile-counter.glitch.me/jzsherlock4869/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=jzsherlock4869)
 
 <!--
 **jzsherlock4869/jzsherlock4869** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
