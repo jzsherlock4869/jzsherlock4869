@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 - ⚡ My website: [Brain-in-Machine](https://jzsherlock4869.github.io/)
 
 
-![jzsherlock4869's GitHub stats](https://github-readme-stats.vercel.app/api?username=jzsherlock4869&show_icons=true&theme=radical)
+<!--![jzsherlock4869's GitHub stats](https://github-readme-stats.vercel.app/api?username=jzsherlock4869&show_icons=true&theme=radical)-->
+![jzsherlock4869's GitHub stats](https://github-readme-stats.vercel.app/api?username=jzsherlock4869)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jzsherlock4869&layout=compact&theme=dark) -->
 
